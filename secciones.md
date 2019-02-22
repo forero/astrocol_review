@@ -7,6 +7,7 @@ new scientific collaborations.
 
 ### (Intro)
 
+* (Historia del primer COCOA 2008 al LARIM 2016).
 * Number of groups (COLCIENCIAS).
 * Themes of research. 2008-2018. (Plots)
 * Number of papers. 2008-2018. (Plots)
