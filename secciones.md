@@ -10,7 +10,7 @@ Development of astronomy in Colombia
 
 * Strategic planning.
 * COCOA.
-* Incomming scientists.
+* Incoming scientists.
 * Local Undergraduate+graduate 
 
 ### International Networks
