@@ -1,4 +1,9 @@
-Development of astronomy in Colombia
+# Development of astronomy in Colombia
+
+A decade of transition from civil war into a road to peace has also 
+left its imprint into astronomical research in Colombia.
+These advancements have opened up the country as a potential partner for 
+new scientific collaborations.
 
 ### (Intro)
 
