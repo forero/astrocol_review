@@ -22,5 +22,8 @@ Development of astronomy in Colombia
 ### Future prospects
 
 * Strategic Planning (New Science Ministry).
+* Local Facilities.
+* Facilities abroad.
+
 
 
